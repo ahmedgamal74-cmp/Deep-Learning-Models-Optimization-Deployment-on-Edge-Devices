@@ -1,16 +1,8 @@
 # Optimize and Deploy Deep Learning Models on Edge Devices
 
 Welcome to our official repository for the graduation project titled **"Optimize and Deploy Deep Learning Models on Edge Devices"**, developed by:
-
-- Ahmed G. Ibrahim  
-- Khaled W. Metwally  
-- Abdelrahman M. Ibrahim  
-- Mazen W. Ahmed  
-- Mahmoud M. Gouda  
-- Youssef H. Mohamed  
-
-**Supervised by:** Prof. Omar Nasr  
-**Mentored by:** Dr. Mohamed Tolba, Si-Vision  
+  
+**Mentored by:** Si-Vision  
 
 ---
 
@@ -88,7 +80,7 @@ The project’s objective is to deploy deep learning models efficiently on the J
 - **YOLOv8s:** Significant mAP improvements via distillation and quantization  
 - **LLMs:** Benchmarked TinyLlama, DeepSeek, and others on Jetson Nano
 
-📊 **Full Excel Results Sheet:** [View on OneDrive](https://onedrive.live.com/:x:/g/personal/EE48DF645E4E6911/EQyBVeUyjL5DtiB5bPQYySUBchuMeMFiRCGsvubJ4spsEQ?resid=EE48DF645E4E6911!se555810c8c3243beb620796cf418c925&ithint=file%2Cxlsx&e=qWgDIu&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9lZTQ4ZGY2NDVlNGU2OTExL0VReUJWZVV5akw1RHRpQjViUFFZeVNVQmNodU1lTUZpUkNHc3Z1Yko0c3BzRVE_ZT1xV2dESXU)
+📊 **Full Excel Results Sheet:** [View on OneDrive](https://docs.google.com/spreadsheets/d/1Db0EXINeAfmpou3PeocLsoQTGAfQ5cSlHY8U9TEEHKI/edit?gid=0#gid=0)
 
 (See detailed tables in `/results` and thesis for full metrics)
 
