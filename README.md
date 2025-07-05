@@ -88,7 +88,9 @@ The project’s objective is to deploy deep learning models efficiently on the J
 - **YOLOv8s:** Significant mAP improvements via distillation and quantization  
 - **LLMs:** Benchmarked TinyLlama, DeepSeek, and others on Jetson Nano
 
-(See detailed tables in `/results` and thesis for metrics)
+📊 **Full Excel Results Sheet:** [View on OneDrive](https://onedrive.live.com/:x:/g/personal/EE48DF645E4E6911/EQyBVeUyjL5DtiB5bPQYySUBchuMeMFiRCGsvubJ4spsEQ?resid=EE48DF645E4E6911!se555810c8c3243beb620796cf418c925&ithint=file%2Cxlsx&e=qWgDIu&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9lZTQ4ZGY2NDVlNGU2OTExL0VReUJWZVV5akw1RHRpQjViUFFZeVNVQmNodU1lTUZpUkNHc3Z1Yko0c3BzRVE_ZT1xV2dESXU)
+
+(See detailed tables in `/results` and thesis for full metrics)
 
 ---
 
@@ -98,52 +100,5 @@ The project’s objective is to deploy deep learning models efficiently on the J
 - **Frameworks:** PyTorch, TensorFlow Lite, ONNX, TensorRT
 - **Datasets:** CIFAR-10, ImageNet, COCO, Pascal VOC
 
----
-
-## 👨‍💻 Contributors
-
-This work is part of the graduation project submitted to the Faculty of Engineering, Cairo University (2025). For inquiries, contact the team members or supervisor.
 
 ---
-
-## 📎 Additional Resources
-
-- 📄 Full thesis [link or attach PDF]
-- 📊 Excel Sheet of results [link]
-- 📽️ Demo videos [optional]
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
